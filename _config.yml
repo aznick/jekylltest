@@ -1,2 +1,3 @@
-name: Jekyll is the Balls
+name: Your New Jekyll Site
+markdown: redcarpet
 pygments: true
